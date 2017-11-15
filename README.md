@@ -1,0 +1,1 @@
+改良版的foundationlog NSLog出来的NSDictionary可直接复制到json文件中读取
